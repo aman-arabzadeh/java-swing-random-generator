@@ -13,6 +13,7 @@ This is a learning project to practice:
 - Event handling with ActionListeners
 - Secure Random number generation
 - Basic input validation 
+- And A Jar file ready to be used
 
 ## Resources
 
