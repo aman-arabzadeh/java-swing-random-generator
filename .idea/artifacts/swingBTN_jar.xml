@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swingBTN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swingBTN_jar</output-path>
+    <root id="archive" name="swingBTN.jar">
+      <element id="module-output" name="swingBTN" />
+    </root>
+  </artifact>
+</component>
